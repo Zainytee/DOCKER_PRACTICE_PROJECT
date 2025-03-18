@@ -24,8 +24,3 @@ EXPOSE 8501
 
 # Set the entrypoint to run Streamlit
 CMD ["streamlit", "run", "data_process.py"]
-
-
-#Link to the repository where the image is published
-
-# https://hub.docker.com/repository/docker/zainabojo/my-python-streamlit-app
